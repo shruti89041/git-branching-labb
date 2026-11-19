@@ -1,1 +1,1 @@
-Application name: CoderLab Store
+Application name: CoderLab Portal
